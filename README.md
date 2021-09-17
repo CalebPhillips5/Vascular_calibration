@@ -12,5 +12,11 @@ Scenario 4
 
 unzip, run new_global_final_results.m
 
+Scenario 5 region 1
 
+Run Paper_results1.m and plotting_avg_dist.m
+
+Scenario 5 region 2
+
+Run plotting_avg_dist.m
 
