@@ -8,3 +8,9 @@ Scenario 3
 
 Run post_processing.m in Scenario3 folder
 
+Scenario 4
+
+unzip, run new_global_final_results.m
+
+
+
